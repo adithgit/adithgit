@@ -2,10 +2,9 @@
 
  <div align="center"> 
     <a href="">
-      <img align="center" src="https://tenor.com/view/when-they-are-online-but-wont-respond-to-your-messages-gif-25461238">
+      <img align="center" src="https://tenor.com/view/when-they-are-online-but-wont-respond-to-your-messages-gif-25461238" />
     </a>
 </div>
-
 
 ## I'm a Computer Science and Engineering Student  
 
