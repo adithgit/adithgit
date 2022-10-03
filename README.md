@@ -22,6 +22,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithgit&theme=synthwave&show_icons=true" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithgit)](https://github.com/anuraghazra/github-readme-stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithgit)](https://github.com/adithgit/github-readme-stats"/>
     </a>
 </div>
