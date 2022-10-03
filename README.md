@@ -1,6 +1,6 @@
 # Hola 👋
 
-<img src="https://tenor.com/view/lofi-art-aesthetic-pixel-gif-17375281" >
+<img src="https://gifimage.net/wp-content/uploads/2018/10/anime-lofi-gif-2.gif" >
 
 ## I'm a Computer Science and Engineering Student  
 
